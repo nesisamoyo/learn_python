@@ -2,3 +2,19 @@ Run your code in Jupyter Notebook with SHIFT + ENTER
 or press RUN
 
 Running is Executing
+
+print() function - to print something , this print to stdout (standard output) 
+
+You want to interact with user:
+  the user is the person infront of the computer -> input() function
+How it works in Programming:
+  s = input()  -> Here the input assigns some value to s (= is an assignment operator)
+
+Right side is assigned to left side . The left side is a variable.
+
+SHIFT + TAB on Jupyter Notebook to get information on python built-in functions
+
+when you use s it print with quotes indicating its a String variable, when you use print(s) it prints without quotes
+s will output 'Nesisa'
+print(s) will output Nesisa
+name.capitalize() -> to call functions/methods use . (dot)
