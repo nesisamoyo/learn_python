@@ -8,3 +8,7 @@
         a = 1
         print(f"I am string with an integer {a} - and more text") -> This outputs I am a string with an integer 1 - and more text
         print(f"I am string with an integer {a + 1} - and more text") -> This outputs I am a string with an integer 3 - and more text
+        
+<h1> Type Conversion </h1>
+
+Convert an integer into a string, float and vice versa
