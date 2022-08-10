@@ -11,4 +11,4 @@
         
 <h1> Type Conversion </h1>
 
-Convert an integer into a string, float and vice versa
+To convert a datatype. Convert an integer into a string, float and vice versa
