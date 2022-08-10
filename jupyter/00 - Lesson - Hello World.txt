@@ -18,3 +18,4 @@ when you use s it print with quotes indicating its a String variable, when you u
 s will output 'Nesisa'
 print(s) will output Nesisa
 name.capitalize() -> to call functions/methods use . (dot)
+end=' ' means do not add new line.
