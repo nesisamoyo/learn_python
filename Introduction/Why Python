@@ -1,4 +1,4 @@
-<h1> What do you use Python for? </h1>                              
+1. What do you use Python for?                              
 
 - Data analysis
 - Web development
@@ -16,11 +16,41 @@
 - Mobile development
 - Multimedia applications development
 
-<h1> Favorite Python Feature </h1>
+2. Favorite Python Feature 
 
 - Simple syntax, syntactic sugar, easy to learn
 - Easy to write & read code, high-level language 
 - List comprehension, generator
 - Versatility, libraries for any problem
 - Dynamic typing, duck typing
-- 
+- Strng standard libraries, built-in data structures, expressions
+- Large community, libraries support, clear documentation
+- Multi-paradigm
+- Rapid prototyping
+- Large data science ecosystem
+- Easy string handling and formatting
+- List & dictionary
+- Portability
+- Cross-platform
+- Concurrency &  parallelism
+- Interpreted language, no compile time
+- Python shell
+- Context manager
+- Lambda function
+- Other**
+
+3. Job roles
+
+- Developer/Programmer
+- Architect
+- Data analyst
+- Team lead
+- Technocal support
+- Systems analyst
+- CIO/CEO/CTO
+- Product manager
+- QA engineer
+- DBA
+- Business analyst
+- Technical writer
+- Other
